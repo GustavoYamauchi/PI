@@ -1,0 +1,15 @@
+﻿  Main.c
+D:\Senac\2-semestre\PI 2\PI\Projeto Integrado - Game 2d\Main.c(99,35): warning C4087:  'al_get_target_bitmap': declarado com lista de parâmetros 'void'
+D:\Senac\2-semestre\PI 2\PI\Projeto Integrado - Game 2d\Main.c(13,7): warning C4101:  'texto': variável local não referenciada
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_init_image_addon referenciado na função main
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_load_font referenciado na função main
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_destroy_font referenciado na função main
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_init_font_addon referenciado na função main
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_init_ttf_addon referenciado na função main
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_destroy_sample referenciado na função main
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_install_audio referenciado na função main
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_reserve_samples referenciado na função main
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_play_sample referenciado na função main
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_load_sample referenciado na função main
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_init_acodec_addon referenciado na função main
+D:\Senac\2-semestre\PI 2\PI\Projeto Integrado - Game 2d\x64\Debug\Projeto Integrado - Game 2d.exe : fatal error LNK1120: 11 externo não resolvidos
