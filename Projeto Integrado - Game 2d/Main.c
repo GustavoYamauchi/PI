@@ -11,7 +11,7 @@
 
 
 
-//function main
+//function int main
 int main() {
 	
 	int area = 0;
